@@ -22,8 +22,8 @@ protected void onCreate(Bundle savedInstanceState) {
     
     // Remember to enable the listener
     mListener.enable();
-    }
-'''
+}
+```
 
 ## License
 Copyright 2017 Branden Fung
