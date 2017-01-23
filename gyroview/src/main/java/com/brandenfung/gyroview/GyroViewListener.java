@@ -36,7 +36,7 @@ import java.util.ArrayList;
  */
 
 public class GyroViewListener extends OrientationEventListener {
-    private boolean DEBUG = true;
+    private boolean DEBUG = false;
     private String TAG = "GyroViewListener";
 
 //    private Activity mActivity;
