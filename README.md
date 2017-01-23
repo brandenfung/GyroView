@@ -24,6 +24,19 @@ protected void onCreate(Bundle savedInstanceState) {
     mListener.enable();
 }
 ```
+## Download
+Grab the library via Gradle: 
+
+```groovy
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'com.brandenfung:gyroview:1.0.0'
+}
+```
 
 ## License
 Copyright 2017 Branden Fung
