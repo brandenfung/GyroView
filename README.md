@@ -1,5 +1,6 @@
 # GyroView
 A simple Android library for orienting views right-side up in an Activity with static orientation.
+![GYROVIEW GIF](https://github.com/brandenfung/GyroView/blob/master/demo.gif)
 
 ## Usage
 Instantiate GyroViewListener, add the appropriate views to the listener, and enable it. For example, in an Activity:
